@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1438624234 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/main.cpp
+	<iostream>
+	"Personaje.h"
+	"Guerrero.h"
+
+1438624114 /home/jonathan/Documents/ProgramacionIII/Polimorfismo/Personaje.h
+	<iostream>
+
+1438624223 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/Personaje.cpp
+	"Personaje.h"
+
+1438624378 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/Guerrero.cpp
+	"Guerrero.h"
+
+1438624367 /home/jonathan/Documents/ProgramacionIII/Polimorfismo/Guerrero.h
+	"Personaje.h"
+
+1438624760 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/src/Mago.cpp
+	"Mago.h"
+
+1438624760 /home/jonathan/Documents/ProgramacionIII/Polimorfismo/include/Mago.h
+	"Personaje.h"
+
+1438624114 /home/jonathan/Documents/ProgramacionIII/Polimorfismo/include/Personaje.h
+	<iostream>
+
+1438624378 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/src/Guerrero.cpp
+	"Guerrero.h"
+
+1438624367 /home/jonathan/Documents/ProgramacionIII/Polimorfismo/include/Guerrero.h
+	"Personaje.h"
+
+1438624223 source:/home/jonathan/Documents/ProgramacionIII/Polimorfismo/src/Personaje.cpp
+	"Personaje.h"
+
